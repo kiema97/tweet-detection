@@ -3,4 +3,4 @@ Ce projet de détection de tweets suspects utilise plusieurs modèles de machine
 # API de Détection de Tweets Suspects
 Cette application utilise plusieurs modèles de machine learning, dont BERT, pour classer les tweets en "suspects" ou "non suspects".
 ## Installation et Exécution
-Veuillez consulter les instructions pour l'installation et l'exécution dans ce fichier.
+Veuillez consulter la documentation pour plus de détails sur le fonctionnement de l'API
